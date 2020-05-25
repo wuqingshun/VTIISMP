@@ -1,7 +1,17 @@
-# VTIISMP
-Vehicle travel integrated intelligent service management platform
+
 # VTIISMP
 车辆出行一体化智能服务管理平台（Vehicle travel integrated intelligent service management platform）
 
 项目相关代码在code文件夹下
 项目相关文档在word文件夹下
+
+# 团队成员
+## 负责人：
+201912172014282 吴庆顺
+## 小组成员：
+201912172014278 郭梦利
+201912172014280 李璐璐
+201912172014281 聂茜茜
+201912172014283 袁玥
+201912172014291 姚恩广
+201912172014293 李宜飞
